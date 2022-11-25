@@ -1,4 +1,4 @@
-module github.com/govaluateplus
+module github.com/chet0xhenry/govaluate/v3
 
 go 1.17
 
